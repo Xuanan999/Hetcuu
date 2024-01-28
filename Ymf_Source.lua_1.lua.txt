@@ -1,0 +1,6 @@
+_G.TieuDe = "AnDepZai Hub On Top"
+_G.ThongBao = "MẸ MÀY BÉO"
+_G.ThongBaoChoose = "Đã Update 2.0 [Blox Fruit]"
+
+_G.Discord = "https://discord.com/invite/uf2e9egs"
+_G.YouTube = "https://youtube.com/@XuanAn-LuxuryHub?si=NsMJFgmULl-UT4Ep"
